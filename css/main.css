@@ -1,0 +1,43 @@
+.bg
+{
+    background-image: url("../img/6.jpg");
+    color:white;
+}
+
+.btn1
+{
+    margin-left: 1200px;
+}
+
+.circle {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(8, 50, 235);
+    border-radius: 60%;
+    display: inline-block;
+    margin-left: 30px;
+  }
+
+.h2
+{
+    text-align: center;
+    color:white;
+}
+
+.txt
+{
+    margin-left: 100px;
+}
+.hybrid
+{
+    background-color: rgb(245, 239, 231);
+}
+
+.change-my-color
+{
+    fill:blue;
+}
+
+.card1{
+    background-color: gray;
+}
